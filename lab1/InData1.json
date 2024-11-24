@@ -1,0 +1,29 @@
+{
+    "tests": [
+        {
+            "description": "Good data",
+            "numbers": [3, 28, -4, 901, 666, -25, -25, 700, -1, 0],
+            "expected": [5, 4, -13.75]
+        },
+        {
+            "description": "Empty List",
+            "numbers": [],
+            "expected": [0, 0, 0]
+        },
+        {
+            "description": "Only positive numbers",
+            "numbers": [1, 2, 3, 4, 5],
+            "expected": [5, 0, 0]
+        },
+        {
+            "description": "Only negative numbers",
+            "numbers": [-1, -2, -3, -4, -5],
+            "expected": [0, 5, -3.0]
+        },
+        {
+            "description": "Wrong parameters",
+            "numbers": ["a", "b", "c"],
+            "expected": [0, 0, 0]
+        }
+    ]
+}

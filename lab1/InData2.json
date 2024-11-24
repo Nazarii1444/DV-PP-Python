@@ -1,0 +1,39 @@
+{
+    "tests": [
+        {
+            "description": "Good data - versatile triangle",
+            "a": 3,
+            "b": 4,
+            "c": 5,
+            "expected": "Versatile"
+        },
+        {
+            "description": "Good data - equilateral triangle",
+            "a": 2,
+            "b": 2,
+            "c": 2,
+            "expected": "Equilateral"
+        },
+        {
+            "description": "Good data - Rivnobedrebyi triangle",
+            "a": 1,
+            "b": 2,
+            "c": 2,
+            "expected": "Rivnobedrebyi"
+        },
+        {
+            "description": "Good data - not a triangle",
+            "a": 1,
+            "b": 2,
+            "c": 3,
+            "expected": "Not a triangle"
+        },
+        {
+            "description": "Wrong data",
+            "a": "a",
+            "b": 4,
+            "c": 5,
+            "expected": "Not a triangle"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+Test Good data - versatile triangle result: Versatile Passed
+Test Good data - equilateral triangle result: Equilateral Passed
+Test Good data - Rivnobedrebyi triangle result: Rivnobedrebyi Passed
+Test Good data - not a triangle result: Not a triangle Passed
+Test Wrong data result: Not a triangle Passed

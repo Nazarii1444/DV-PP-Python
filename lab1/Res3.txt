@@ -1,0 +1,3 @@
+Test Good data - three word sentence result: ['A', 'test', 'sentence'] Passed
+Test Empty sentence result: [] Passed
+Test Wrong data result: [] Passed

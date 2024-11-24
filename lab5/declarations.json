@@ -1,0 +1,1256 @@
+[
+    {
+        "vehicle": "Volvo",
+        "id": "M5960G",
+        "owner": "Green Day Company",
+        "date": "2020-01-09",
+        "from_": [
+            "Україна",
+            "Вінниця"
+        ],
+        "to": [
+            "Франція",
+            "Париж"
+        ],
+        "products": [
+            [
+                "Мінерали",
+                9000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "Z5957L",
+        "owner": "Transport Ltd.",
+        "date": "2021-03-19",
+        "from_": [
+            "Франція",
+            "Париж"
+        ],
+        "to": [
+            "Україна",
+            "Київ"
+        ],
+        "products": [
+            [
+                "Текстиль",
+                20000
+            ],
+            [
+                "Меблі",
+                30000
+            ],
+            [
+                "Продукти",
+                15000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "DAF",
+        "id": "C3943X",
+        "owner": "Fast Cargo",
+        "date": "2023-01-04",
+        "from_": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "to": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "products": [
+            [
+                "Хімікати",
+                60000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "MAN",
+        "id": "O6186S",
+        "owner": "Transport Ltd.",
+        "date": "2021-01-22",
+        "from_": [
+            "Україна",
+            "Вінниця"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Хімікати",
+                60000
+            ],
+            [
+                "Папір",
+                5000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "L4683J",
+        "owner": "Green Day Company",
+        "date": "2023-06-26",
+        "from_": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "to": [
+            "Україна",
+            "Київ"
+        ],
+        "products": [
+            [
+                "Папір",
+                5000
+            ],
+            [
+                "Вибухівка",
+                8585
+            ],
+            [
+                "Одяг",
+                25000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Scania",
+        "id": "H2238Y",
+        "owner": "Logistic LLC",
+        "date": "2020-05-21",
+        "from_": [
+            "Україна",
+            "Одеса"
+        ],
+        "to": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "products": [
+            [
+                "Техніка",
+                50000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "MAN",
+        "id": "G1751U",
+        "owner": "Green Day Company",
+        "date": "2023-06-17",
+        "from_": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "to": [
+            "Україна",
+            "Київ"
+        ],
+        "products": [
+            [
+                "Ліки",
+                40000
+            ],
+            [
+                "Будівельні матеріали",
+                35000
+            ],
+            [
+                "Продукти",
+                15000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "Y1450G",
+        "owner": "Fast Cargo",
+        "date": "2022-11-11",
+        "from_": [
+            "Франція",
+            "Париж"
+        ],
+        "to": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "products": [
+            [
+                "Папір",
+                5000
+            ],
+            [
+                "Текстиль",
+                20000
+            ],
+            [
+                "Ліки",
+                40000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Mercedes",
+        "id": "G2354S",
+        "owner": "Green Day Company",
+        "date": "2023-09-01",
+        "from_": [
+            "Україна",
+            "Вінниця"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Мінерали",
+                9000
+            ],
+            [
+                "Текстиль",
+                20000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "DAF",
+        "id": "I1523U",
+        "owner": "Green Day Company",
+        "date": "2020-06-24",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Автомобілі",
+                80000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Mercedes",
+        "id": "M6708Q",
+        "owner": "Transport Ltd.",
+        "date": "2022-07-04",
+        "from_": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "to": [
+            "Україна",
+            "Вінниця"
+        ],
+        "products": [
+            [
+                "Текстиль",
+                20000
+            ],
+            [
+                "Меблі",
+                30000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "I3182S",
+        "owner": "Logistic LLC",
+        "date": "2023-12-02",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Ліки",
+                40000
+            ],
+            [
+                "Динаміт",
+                12024
+            ],
+            [
+                "Меблі",
+                30000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "MAN",
+        "id": "R6643O",
+        "owner": "Green Day Company",
+        "date": "2022-08-06",
+        "from_": [
+            "Франція",
+            "Париж"
+        ],
+        "to": [
+            "Україна",
+            "Вінниця"
+        ],
+        "products": [
+            [
+                "Будівельні матеріали",
+                35000
+            ],
+            [
+                "Хімікати",
+                60000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Mercedes",
+        "id": "X9693H",
+        "owner": "Fast Cargo",
+        "date": "2022-10-23",
+        "from_": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "to": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "products": [
+            [
+                "Продукти",
+                15000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Scania",
+        "id": "I2816Y",
+        "owner": "Transport Ltd.",
+        "date": "2021-04-09",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Франція",
+            "Париж"
+        ],
+        "products": [
+            [
+                "Наркотики",
+                19463
+            ],
+            [
+                "Папір",
+                5000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Scania",
+        "id": "W2158W",
+        "owner": "Green Day Company",
+        "date": "2021-12-22",
+        "from_": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "to": [
+            "Україна",
+            "Вінниця"
+        ],
+        "products": [
+            [
+                "Одяг",
+                25000
+            ],
+            [
+                "Техніка",
+                50000
+            ],
+            [
+                "Ліки",
+                40000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Mercedes",
+        "id": "S9654Y",
+        "owner": "Logistic LLC",
+        "date": "2022-04-19",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Зброя",
+                9585
+            ],
+            [
+                "Папір",
+                5000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "I4811Z",
+        "owner": "Logistic LLC",
+        "date": "2020-09-08",
+        "from_": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "to": [
+            "Україна",
+            "Київ"
+        ],
+        "products": [
+            [
+                "Електроніка",
+                70000
+            ],
+            [
+                "Одяг",
+                25000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "B8671A",
+        "owner": "Logistic LLC",
+        "date": "2022-08-17",
+        "from_": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Техніка",
+                50000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Scania",
+        "id": "T6754B",
+        "owner": "Logistic LLC",
+        "date": "2022-08-09",
+        "from_": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "to": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "products": [
+            [
+                "Хімікати",
+                60000
+            ],
+            [
+                "Одяг",
+                25000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Scania",
+        "id": "W6129X",
+        "owner": "Fast Cargo",
+        "date": "2020-11-18",
+        "from_": [
+            "Україна",
+            "Вінниця"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Меблі",
+                30000
+            ],
+            [
+                "Папір",
+                5000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Scania",
+        "id": "Y5708H",
+        "owner": "Logistic LLC",
+        "date": "2021-12-18",
+        "from_": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "to": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "products": [
+            [
+                "Міни",
+                3847
+            ],
+            [
+                "Техніка",
+                50000
+            ],
+            [
+                "Хімікати",
+                60000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "MAN",
+        "id": "A6746G",
+        "owner": "Logistic LLC",
+        "date": "2021-02-10",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "products": [
+            [
+                "Папір",
+                5000
+            ],
+            [
+                "Одяг",
+                25000
+            ],
+            [
+                "Текстиль",
+                20000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Mercedes",
+        "id": "L8010U",
+        "owner": "Transport Ltd.",
+        "date": "2020-07-24",
+        "from_": [
+            "Україна",
+            "Одеса"
+        ],
+        "to": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "products": [
+            [
+                "Мінерали",
+                9000
+            ],
+            [
+                "Автомобілі",
+                80000
+            ],
+            [
+                "Будівельні матеріали",
+                35000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "DAF",
+        "id": "I4235Y",
+        "owner": "Logistic LLC",
+        "date": "2021-04-27",
+        "from_": [
+            "Франція",
+            "Париж"
+        ],
+        "to": [
+            "Україна",
+            "Київ"
+        ],
+        "products": [
+            [
+                "Автомобілі",
+                80000
+            ],
+            [
+                "Хімікати",
+                60000
+            ],
+            [
+                "Ліки",
+                40000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "U8963P",
+        "owner": "Transport Ltd.",
+        "date": "2022-04-06",
+        "from_": [
+            "Франція",
+            "Париж"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Електроніка",
+                70000
+            ],
+            [
+                "Одяг",
+                25000
+            ],
+            [
+                "Продукти",
+                15000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Mercedes",
+        "id": "W4819Y",
+        "owner": "Green Day Company",
+        "date": "2022-07-04",
+        "from_": [
+            "Україна",
+            "Одеса"
+        ],
+        "to": [
+            "Франція",
+            "Париж"
+        ],
+        "products": [
+            [
+                "Текстиль",
+                20000
+            ],
+            [
+                "Папір",
+                5000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "DAF",
+        "id": "X7746P",
+        "owner": "Fast Cargo",
+        "date": "2020-05-06",
+        "from_": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "to": [
+            "Україна",
+            "Київ"
+        ],
+        "products": [
+            [
+                "Папір",
+                5000
+            ],
+            [
+                "Мінерали",
+                9000
+            ],
+            [
+                "Текстиль",
+                20000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "DAF",
+        "id": "L3466G",
+        "owner": "Transport Ltd.",
+        "date": "2020-01-21",
+        "from_": [
+            "Україна",
+            "Одеса"
+        ],
+        "to": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "products": [
+            [
+                "Продукти",
+                15000
+            ],
+            [
+                "Текстиль",
+                20000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "Q8136Y",
+        "owner": "Green Day Company",
+        "date": "2021-03-01",
+        "from_": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "to": [
+            "Франція",
+            "Париж"
+        ],
+        "products": [
+            [
+                "Папір",
+                5000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "MAN",
+        "id": "R8659R",
+        "owner": "Logistic LLC",
+        "date": "2020-06-08",
+        "from_": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "to": [
+            "Україна",
+            "Київ"
+        ],
+        "products": [
+            [
+                "Мінерали",
+                9000
+            ],
+            [
+                "Одяг",
+                25000
+            ],
+            [
+                "Текстиль",
+                20000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "MAN",
+        "id": "E5170Q",
+        "owner": "Green Day Company",
+        "date": "2020-06-11",
+        "from_": [
+            "Франція",
+            "Париж"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Автомобілі",
+                80000
+            ],
+            [
+                "Ліки",
+                40000
+            ],
+            [
+                "Техніка",
+                50000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "MAN",
+        "id": "E5434U",
+        "owner": "Fast Cargo",
+        "date": "2021-03-12",
+        "from_": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Ліки",
+                40000
+            ],
+            [
+                "Електроніка",
+                70000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "K1011Z",
+        "owner": "Green Day Company",
+        "date": "2022-09-12",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Франція",
+            "Париж"
+        ],
+        "products": [
+            [
+                "Автомобілі",
+                80000
+            ],
+            [
+                "Електроніка",
+                70000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Mercedes",
+        "id": "P8974G",
+        "owner": "Fast Cargo",
+        "date": "2020-12-19",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "products": [
+            [
+                "Папір",
+                5000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "DAF",
+        "id": "W3532D",
+        "owner": "Transport Ltd.",
+        "date": "2023-03-01",
+        "from_": [
+            "Франція",
+            "Париж"
+        ],
+        "to": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "products": [
+            [
+                "Папір",
+                5000
+            ],
+            [
+                "Текстиль",
+                20000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "MAN",
+        "id": "W9544Z",
+        "owner": "Logistic LLC",
+        "date": "2021-05-19",
+        "from_": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "to": [
+            "Франція",
+            "Париж"
+        ],
+        "products": [
+            [
+                "Автомобілі",
+                80000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "D1863G",
+        "owner": "Green Day Company",
+        "date": "2022-08-27",
+        "from_": [
+            "Україна",
+            "Вінниця"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Автомобілі",
+                80000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "DAF",
+        "id": "P6878N",
+        "owner": "Fast Cargo",
+        "date": "2023-07-17",
+        "from_": [
+            "Україна",
+            "Одеса"
+        ],
+        "to": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "products": [
+            [
+                "Автомобілі",
+                80000
+            ],
+            [
+                "Одяг",
+                25000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Mercedes",
+        "id": "A8272M",
+        "owner": "Fast Cargo",
+        "date": "2023-10-11",
+        "from_": [
+            "Україна",
+            "Одеса"
+        ],
+        "to": [
+            "Франція",
+            "Париж"
+        ],
+        "products": [
+            [
+                "Техніка",
+                50000
+            ],
+            [
+                "Автомобілі",
+                80000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "DAF",
+        "id": "R1512Y",
+        "owner": "Logistic LLC",
+        "date": "2021-09-24",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Україна",
+            "Вінниця"
+        ],
+        "products": [
+            [
+                "Папір",
+                5000
+            ],
+            [
+                "Електроніка",
+                70000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "DAF",
+        "id": "M6556N",
+        "owner": "Transport Ltd.",
+        "date": "2022-01-26",
+        "from_": [
+            "Україна",
+            "Одеса"
+        ],
+        "to": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "products": [
+            [
+                "Автомобілі",
+                80000
+            ],
+            [
+                "Меблі",
+                30000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "I8963U",
+        "owner": "Fast Cargo",
+        "date": "2021-10-08",
+        "from_": [
+            "Франція",
+            "Париж"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Мінерали",
+                9000
+            ],
+            [
+                "Меблі",
+                30000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Scania",
+        "id": "H1094O",
+        "owner": "Green Day Company",
+        "date": "2021-04-04",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Одяг",
+                25000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "DAF",
+        "id": "D9838J",
+        "owner": "Fast Cargo",
+        "date": "2023-03-10",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "products": [
+            [
+                "Текстиль",
+                20000
+            ],
+            [
+                "Продукти",
+                15000
+            ]
+        ],
+        "contract_of_carriage": false
+    },
+    {
+        "vehicle": "Mercedes",
+        "id": "E6006J",
+        "owner": "Fast Cargo",
+        "date": "2023-04-02",
+        "from_": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "to": [
+            "Україна",
+            "Київ"
+        ],
+        "products": [
+            [
+                "Папір",
+                5000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "MAN",
+        "id": "Q7156X",
+        "owner": "Green Day Company",
+        "date": "2023-10-20",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Poland",
+            "Wroclaw"
+        ],
+        "products": [
+            [
+                "Меблі",
+                30000
+            ],
+            [
+                "Електроніка",
+                70000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "Volvo",
+        "id": "F5150S",
+        "owner": "Transport Ltd.",
+        "date": "2023-06-23",
+        "from_": [
+            "Німеччина",
+            "Берлін"
+        ],
+        "to": [
+            "Франція",
+            "Париж"
+        ],
+        "products": [
+            [
+                "Динаміт",
+                10493
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "MAN",
+        "id": "C6363T",
+        "owner": "Green Day Company",
+        "date": "2021-10-24",
+        "from_": [
+            "Україна",
+            "Вінниця"
+        ],
+        "to": [
+            "Франція",
+            "Париж"
+        ],
+        "products": [
+            [
+                "Будівельні матеріали",
+                35000
+            ]
+        ],
+        "contract_of_carriage": true
+    },
+    {
+        "vehicle": "MAN",
+        "id": "Q3255R",
+        "owner": "Logistic LLC",
+        "date": "2023-09-11",
+        "from_": [
+            "Україна",
+            "Київ"
+        ],
+        "to": [
+            "Україна",
+            "Одеса"
+        ],
+        "products": [
+            [
+                "Зброя",
+                12162
+            ],
+            [
+                "Хімікати",
+                60000
+            ],
+            [
+                "Будівельні матеріали",
+                35000
+            ]
+        ],
+        "contract_of_carriage": false
+    }
+]

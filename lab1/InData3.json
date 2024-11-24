@@ -1,0 +1,19 @@
+{
+    "tests": [
+        {
+            "description": "Good data - three word sentence",
+            "sentence": "A test sentence",
+            "expected": ["A", "test", "sentence"]
+        },
+        {
+            "description": "Empty sentence",
+            "sentence": "",
+            "expected": []
+        },
+        {
+            "description": "Wrong data",
+            "sentence": 12345,
+            "expected": []
+        }
+    ]
+}

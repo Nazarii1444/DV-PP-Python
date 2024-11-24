@@ -1,0 +1,30 @@
+{
+    "tests": [
+        {
+            "description": "Good data - matrix 5x5",
+            "matrix": [
+                [1, 22, -10, -4, -20],
+                [-81, -30, 4, 2, 10],
+                [32, 8, 5, 2, -3],
+                [-40, -1, 19, 34, -6],
+                [0, -4, 10, -5, 1]
+            ],
+            "expected": [73, [1, 2, 4, 4]]
+        },
+        {
+            "description": "Matrix with one element",
+            "matrix": [[5]],
+            "expected": [5, [0, 0, 0, 0]]
+        },
+        {
+            "description": "Empty matrix",
+            "matrix": [],
+            "expected": [0, []]
+        },
+        {
+            "description": "Wrong data",
+            "matrix": "abcd",
+            "expected": [0, []]
+        }
+    ]
+}

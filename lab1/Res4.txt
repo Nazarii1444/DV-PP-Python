@@ -1,0 +1,4 @@
+Test Good data - matrix 5x5 result: (73, (1, 2, 4, 4)) Passed
+Test Matrix with one element result: (5, (0, 0, 0, 0)) Passed
+Test Empty matrix result: (0, []) Passed
+Test Wrong data result: (0, []) Passed

@@ -1,0 +1,5 @@
+Test Good data result: (5, 4, -13.75) Passed
+Test Empty List result: (0, 0, 0) Passed
+Test Only positive numbers result: (5, 0, 0) Passed
+Test Only negative numbers result: (0, 5, -3.0) Passed
+Test Wrong parameters result: (0, 0, 0) Passed
